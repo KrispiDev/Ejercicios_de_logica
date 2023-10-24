@@ -1,7 +1,7 @@
 import UIKit
 
 /*
- * ¿ES UN ANAGRAMA?
+ * Reto de "¿ES UN ANAGRAMA?"
  * Dificultad: MEDIA
  *
  * Enunciado: Escribe una función que acepte dos cadenas de texto (String) y devuelva un valor booleano (Bool) que indique si las dos cadenas son anagramas o no.
