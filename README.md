@@ -28,5 +28,5 @@ A continuación, encontrarás una lista de los retos disponibles actualmente en 
 
 
 ## Contacto
-- [Sitio web](https://www.krispi.dev/home)
+- [krispi.dev](https://www.krispi.dev/home)
 - [GitHub](https://github.com/KrispiDev)
