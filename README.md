@@ -4,7 +4,7 @@ Potencia tus Habilidades de Programación y Desarrollo de Aplicaciones, Ejercici
 
 ## Índice
 - [Listado de Retos](#listado-de-retos)
-  [Tecnologías](#tecnologia)
+- [Tecnologías](#tecnologia)
 - [Contacto](#contacto)
 
 **Tecnologías:**
