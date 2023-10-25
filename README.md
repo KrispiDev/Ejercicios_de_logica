@@ -6,6 +6,21 @@ Potencia tus Habilidades de Programación y Desarrollo de Aplicaciones, Ejercici
 - [Listado de Retos](#listado-de-retos)
 - [Contacto](#contacto)
 
+**Tecnologías:**
+
+- ![Swift](https://enlace-a-la-imagen.com/swift-icon.png) Apple Swift
+- ![Kotlin](https://enlace-a-la-imagen.com/kotlin-icon.png) Android Kotlin
+- ![Android Studio](https://enlace-a-la-imagen.com/android-studio-icon.png) Android Android_Studio
+- ![Python](https://enlace-a-la-imagen.com/python-icon.png) Python
+- ![Java](https://enlace-a-la-imagen.com/java-icon.png) Java
+- ![JavaScript](https://enlace-a-la-imagen.com/javascript-icon.png) JavaScript
+- ![AWS](https://enlace-a-la-imagen.com/aws-icon.png) AWS
+- ![Google Cloud](https://enlace-a-la-imagen.com/google-cloud-icon.png) Google_Cloud
+- ![Firebase](https://enlace-a-la-imagen.com/firebase-icon.png) Firebase
+- ![Node.JS](https://enlace-a-la-imagen.com/nodejs-icon.png) Node.JS
+- ![MongoDB](https://enlace-a-la-imagen.com/mongodb-icon.png) MongoDB
+- ![MySQL](https://enlace-a-la-imagen.com/mysql-icon.png) MySQL
+
 
 ## Listado de Retos
 A continuación, encontrarás una lista de los retos disponibles actualmente en nuestro repositorio. Estos desafíos están disponibles en tres lenguajes de programación: Kotlin, Python y Swift.
