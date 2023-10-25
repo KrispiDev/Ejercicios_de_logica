@@ -9,8 +9,7 @@ Potencia tus Habilidades de Programación y Desarrollo de Aplicaciones, Ejercici
 
 **Tecnologías:**
 
-- (https://www.krispi.dev/assets/img/iconos1.png)
-
+![](https://www.krispi.dev/assets/img/iconos1.png)
 
 ## Listado de Retos
 A continuación, encontrarás una lista de los retos disponibles actualmente en nuestro repositorio. Estos desafíos están disponibles en tres lenguajes de programación: Kotlin, Python y Swift.
