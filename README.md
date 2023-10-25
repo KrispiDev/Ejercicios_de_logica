@@ -1,36 +1,28 @@
-# Nombre de tu Proyecto
+# Retos de Programación
 
-Descripción concisa de tu proyecto. Explica de qué se trata y cuál es su propósito principal.
+Potencia tus Habilidades de Programación y Desarrollo de Aplicaciones, Ejercicios para Enriquecer tu Portafolio Personal Acceso Gratuito, Flexibilidad de Tiempo, Basados en Pruebas Técnicas, Entrevistas Laborales Utiliza el Lenguaje de Programación y la Tecnología de tu Elección.
 
-## Tabla de Contenidos
-- [Capturas de Pantalla](#capturas-de-pantalla)
-- [Instalación](#instalación)
-- [Uso](#uso)
-- [Características](#características)
-- [Contribución](#contribución)
-- [Licencia](#licencia)
+## Índice
+- [Listado de Retos](#listado-de-retos)
+- [Contacto](#contacto)
 
-## Capturas de Pantalla
-Incluye imágenes o GIFs que muestren cómo se ve y se utiliza tu proyecto. Esto puede ser muy atractivo para los visitantes.
 
-## Instalación
-Proporciona instrucciones claras y concisas sobre cómo instalar y configurar tu proyecto. Puedes incluir comandos o enlaces a documentación adicional.
+## Listado de Retos
+A continuación, encontrarás una lista de los retos disponibles actualmente en nuestro repositorio. Estos desafíos están disponibles en tres lenguajes de programación: Kotlin, Python y Swift.
 
-## Uso
-Explica cómo utilizar tu proyecto. Proporciona ejemplos de código y casos de uso. Puedes utilizar listas numeradas o viñetas para hacerlo más legible.
+1. Calcular Area de Poligono
+2. Calcular Aspect Radio desde URL
+3. Contar Palabras
+4. Decimal a Binario
+5. Es un Numero Primo
+6. Es un Anagrama
+7. Expreciones Balanciadas
+8. Fibonacci
+9. Fizz Buzz
+10. Invertir Cadenas
+11. Texto a Morse
 
-## Características
-Enumera las principales características de tu proyecto en forma de lista. Destaca lo que lo hace especial y diferente de otros proyectos similares.
-
-## Contribución
-Anima a otros a contribuir a tu proyecto. Explica cómo pueden enviar solicitudes de extracción (pull requests) o informar problemas. Incluye pautas de contribución si las tienes.
-
-## Licencia
-Indica la licencia bajo la cual se distribuye tu proyecto. Asegúrate de que esté en conformidad con las directrices de GitHub.
 
 ## Contacto
-Si deseas que los usuarios te contacten para obtener más información o hacer preguntas, puedes proporcionar tu dirección de correo electrónico o enlaces a tus perfiles de redes sociales.
-
-## Agradecimientos
-Agradece a cualquier persona, proyecto o recurso que haya contribuido o inspirado tu proyecto.
-
+- [Sitio web](https://www.krispi.dev/home)
+- [GitHub](https://github.com/KrispiDev)
